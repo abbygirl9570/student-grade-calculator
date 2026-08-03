@@ -28,4 +28,4 @@ Bug:
 Records were not saved after refreshing the page.
 
 Fix:
-Used Local Storage to save and load student records.
+Used Local Storage to save and load student records.Testing completed successfully before submission.
