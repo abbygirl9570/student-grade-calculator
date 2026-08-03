@@ -18,4 +18,4 @@ This is a Student Grade Calculator built using HTML, CSS, and JavaScript. It all
 1. Open the project in Visual Studio Code.
 2. Install the Live Server extension.
 3. Right-click on `index.html`.
-4. Click **Open with Live Server**.
+4. Click **Open with Live Server**.Project developed for Introduction to Software Development Mini Project.
